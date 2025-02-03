@@ -2,6 +2,8 @@ Package: insurePriceR
 Type: Package
 Title: Insurance Data Processing and Analysis Tools
 Version: 0.1.0
+Author: Josh Bale
+Maintainer: Josh Bale <joshbale1234@gmail.com>
 Authors@R: c(
     person(
       "Josh", "Bale",
